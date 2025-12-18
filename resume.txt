@@ -1,0 +1,5 @@
+Anushka Panwar
+Computer Science and Biosciences undergraduate.
+Skills: Python, Java, Data Analysis, Git.
+Projects include automation scripts and backend tools.
+adding this to test the total word count
