@@ -18,4 +18,5 @@ Manually scanning resumes to understand skills and content is time consuming. th
 ## Current Status
 - Read resume file
 - Count total number of words
+- Extracts basic keywords by filtering common words
 
