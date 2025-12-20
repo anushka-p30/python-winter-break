@@ -1,3 +1,8 @@
+#Resume parser - Project 1
+#Day 5 Checkpoint: frequency based keyword extraction
+
+
+
 stopwords = ["and", "the","with","from","that", "this", "have", "for", "are","was", "were", "will","is", "in", "at", "of", "a", "to"]
 
 
